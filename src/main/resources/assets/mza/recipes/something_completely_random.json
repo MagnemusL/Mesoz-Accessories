@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "mza:steel_block"
+    }
+  ],
+  "result": {
+    "item": "mza:steel_wire",
+    "count": 6
+  }
+}

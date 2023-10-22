@@ -1,0 +1,15 @@
+#Items
+item.steel_wire.name=Steel Wire
+item.mf1b.name=MF1B
+item.gamemode_switcher.name=Gamemode Switcher
+
+#Blocks
+tile.steel_scrap.name=Steel Scrap
+tile.steel_block.name=Steel Block
+tile.test_block.name=Method Test Block (Don't Use This Block!)
+#tile.duper.name=Duper (Don't Use If You Want Normal Play-through!)
+tile.mf1b.name=Modular Fence Bottom Variant 1
+
+#Tabs
+
+itemGroup.mzatab=Mesoz Accessories Tab

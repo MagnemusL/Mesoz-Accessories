@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mza",
+  "name": "Mesoz Accessories",
+  "description": "Mesoz Accessories is an dinosaur themed mod with fences, modular fences, signs, and other kind of decorations!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Magne Lindholm"],
+  "credits": "TurtyWurty",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

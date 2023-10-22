@@ -1,0 +1,29 @@
+{
+  "variants":
+  {
+    "facing=up":
+    {
+      "model": "mza:mf1b"
+    },
+
+    "facing=south":
+    {
+      "model": "mza:mf1b"
+    },
+
+    "facing=east":
+    {
+      "model": "mza:mf1b","y":270
+    },
+
+    "facing=west":
+    {
+      "model": "mza:mf1b","y":90
+    },
+
+    "facing=north":
+    {
+      "model": "mza:mf1b","y":180
+    }
+  }
+}
